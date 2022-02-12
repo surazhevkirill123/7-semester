@@ -1,0 +1,4 @@
+E:\STUDIES\Веб-сервисы\ДопЗадание\Проекты\FunctionApp1\WatchFunctionsTests\obj\Debug\netcoreapp3.1\WatchFunctionsTests.csprojAssemblyReference.cache
+E:\STUDIES\Веб-сервисы\ДопЗадание\Проекты\FunctionApp1\WatchFunctionsTests\obj\Debug\netcoreapp3.1\WatchFunctionsTests.AssemblyInfoInputs.cache
+E:\STUDIES\Веб-сервисы\ДопЗадание\Проекты\FunctionApp1\WatchFunctionsTests\obj\Debug\netcoreapp3.1\WatchFunctionsTests.AssemblyInfo.cs
+E:\STUDIES\Веб-сервисы\ДопЗадание\Проекты\FunctionApp1\WatchFunctionsTests\obj\Debug\netcoreapp3.1\WatchFunctionsTests.csproj.CoreCompileInputs.cache
